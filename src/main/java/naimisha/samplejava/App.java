@@ -1,7 +1,7 @@
 package naimisha.samplejava;
 
 /**
- * Hello world!
+ * Hello everyone
  *
  */
 public class App 
